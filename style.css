@@ -57,7 +57,7 @@ body{
 .solar{
     background-color: #131313;
     text-align: center;
-    color: floralwhite;
+    color: white;
     font-size: 15px;
     margin-top: 70px;
 
@@ -147,7 +147,7 @@ transition: 0.5s ease-in-out;
     line-height: 26px;
     display: inline-block;
     color: #131313;
-    background: #ffff;
+    background:white;
     margin: 0 5px;
     color: #131313;
     margin-top: 13px;
