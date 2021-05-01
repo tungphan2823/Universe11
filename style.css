@@ -38,11 +38,12 @@ body{
     margin-left: 25px;
 }
 .list li a:hover{
-    color: darkcyan;
+    color: rgb(255, 165, 0)
+    ;
     text-decoration: none;
 }
 .welcome{
-    background-image: url(background1.jpg);
+    background-image: url(blackholegif2.gif);
     width: 100%;
     height:650px ;
     align-items: center;
@@ -220,4 +221,8 @@ transition: 0.5s ease-in-out;
 }
 .bt2{
      margin-right: 200px;
+}
+h4{
+    font-size: 13;
+    margin-top: 0.5cm ;
 }
